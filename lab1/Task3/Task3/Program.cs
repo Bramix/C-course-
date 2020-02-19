@@ -3,7 +3,7 @@ using System.Numerics;
 
 namespace Task3
 {
-    class Program
+    static class Program
     {
         private static void Exit(String message)
         {
@@ -44,6 +44,14 @@ namespace Task3
                 Console.WriteLine($"for x = {i} , y = {res}");
             }
 
+        }
+    }
+
+    class Name
+    {
+        private static int vare;
+        static {
+            
         }
     }
 }

@@ -2,9 +2,8 @@
 
 namespace Task4
 {
-    class Program
-    {
-        private static double Pow()
+    class Program {
+    private static double Pow()
         {
             Console.WriteLine("Input a and b (a ^ b)");
             Console.WriteLine("Input a");
@@ -63,4 +62,13 @@ namespace Task4
             }
         }
     }
+
+    class Person
+    {
+        static
+        {
+            
+        }
+    }
+    
 }

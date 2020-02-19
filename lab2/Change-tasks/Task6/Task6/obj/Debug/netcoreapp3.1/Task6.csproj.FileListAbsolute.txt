@@ -1,0 +1,11 @@
+E:\C#\lab2\Task6\Task6\bin\Debug\netcoreapp3.1\Task6.exe
+E:\C#\lab2\Task6\Task6\bin\Debug\netcoreapp3.1\Task6.deps.json
+E:\C#\lab2\Task6\Task6\bin\Debug\netcoreapp3.1\Task6.runtimeconfig.json
+E:\C#\lab2\Task6\Task6\bin\Debug\netcoreapp3.1\Task6.runtimeconfig.dev.json
+E:\C#\lab2\Task6\Task6\bin\Debug\netcoreapp3.1\Task6.dll
+E:\C#\lab2\Task6\Task6\bin\Debug\netcoreapp3.1\Task6.pdb
+E:\C#\lab2\Task6\Task6\obj\Debug\netcoreapp3.1\Task6.csprojAssemblyReference.cache
+E:\C#\lab2\Task6\Task6\obj\Debug\netcoreapp3.1\Task6.AssemblyInfoInputs.cache
+E:\C#\lab2\Task6\Task6\obj\Debug\netcoreapp3.1\Task6.AssemblyInfo.cs
+E:\C#\lab2\Task6\Task6\obj\Debug\netcoreapp3.1\Task6.dll
+E:\C#\lab2\Task6\Task6\obj\Debug\netcoreapp3.1\Task6.pdb
