@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ec6d50c-9b6f-41fc-bd1f-ae9da1825b83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Task1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task1/Task1/Utility.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task2/Task2/Utility.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Task3/Task3/Utility.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab1/Examples/.idea/.idea.Examples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/Examples/.idea/.idea.Examples/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab1/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab1/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/Task2/Task2/bin/Debug/netcoreapp3.1/Task2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab1/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab1/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/Task2/Task2/obj/Debug/netcoreapp3.1/Task2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab1/Task3/Task3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/Task3/Task3/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab1/Task4/Task4/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/Task4/Task4/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab1/Task4/Task4/bin/Debug/netcoreapp3.1/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/Task4/Task4/bin/Debug/netcoreapp3.1/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab1/Task4/Task4/bin/Debug/netcoreapp3.1/Task4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/Task4/Task4/bin/Debug/netcoreapp3.1/Task4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab1/Task4/Task4/obj/Debug/netcoreapp3.1/Task4.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/Task4/Task4/obj/Debug/netcoreapp3.1/Task4.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab1/Task4/Task4/obj/Debug/netcoreapp3.1/Task4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab1/Task4/Task4/obj/Debug/netcoreapp3.1/Task4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../lab1/~$Звіт.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task3/Task3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Task3/Task3/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Task4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Task4/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +78,14 @@
       <option name="presentableId" value="Default" />
       <updated>1582151256727</updated>
       <workItem from="1582151258585" duration="1874000" />
+      <workItem from="1582284499110" duration="581000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
     <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1582153367307">

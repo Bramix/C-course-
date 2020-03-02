@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecfb05d8-0f7b-4708-a9c2-8bd3964c8e82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/.idea.Lab3/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/.idea.Lab3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/.idea.Lab3/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/.idea.Lab3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/.idea.Lab3/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/.idea.Lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/.idea.Lab3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/.idea/.idea.Lab3/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/Lab1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab3.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab3.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab3.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab3.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab3.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab3.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab3.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab3.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab3.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Lab1.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Lab1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Lab1.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Lab1.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Lab3.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Lab3.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Lab3.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/Lab3.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab1/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab1/Lab3.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/Task3/Task3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/Task3/Task3/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/Task4/.idea/.idea.Task4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab2/Task4/.idea/.idea.Task4/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/D3/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lab3/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YP7JLG3yCF98iaaJ8LSCG7XXR2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Lab3" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Lab1/Lab1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecfb05d8-0f7b-4708-a9c2-8bd3964c8e82" name="Default Changelist" comment="" />
+      <created>1582832303295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582832303295</updated>
+      <workItem from="1582832306604" duration="2334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1582834641869">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582834641869" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1582834641869">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582834641869" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1582834641869">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582834641869" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1582834641869">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582834641869" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.2.center" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.center/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.2.left" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.left/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.2.right" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.2.right/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.3.bottom" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.3.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.3.center" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.3.center/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.3.left" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.3.left/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.3.right" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.3.right/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.4.bottom" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.4.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.4.center" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.4.center/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.4.left" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.4.left/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state width="1237" height="204" key="GridCell.Tab.4.right" timestamp="1582834641870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.4.right/0.0.1280.680@0.0.1280.680" timestamp="1582834641870" />
+    <state x="303" y="1" key="search.everywhere.popup" timestamp="1582833435479">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1582833435479" />
+  </component>
+</project>

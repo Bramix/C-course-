@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Task3
@@ -32,8 +33,8 @@ namespace Task3
                 .ToArray()
                 .Concat(second.Where(filter).ToArray())
                 .ToArray();
-            
             Array.Sort(array);
+            List <integer> list 
             return array;
         }
          
