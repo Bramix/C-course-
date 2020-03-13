@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
 
 namespace Task4
 {
@@ -29,7 +28,7 @@ namespace Task4
             switch (typeOfSort.ToLower())
             {
                 case "manufactor":
-                    products.Sort((product1, product2) => product1.Manufactor.CompareTo(product2.Manufactor));
+                     products.Sort((product1, product2) => product1.Manufactor.CompareTo(product2.Manufactor));
                     break;
                 case "price":
                     products.Sort((product1, product2) => product1.Price.CompareTo(product2.Price));
@@ -56,7 +55,7 @@ namespace Task4
             {
                 store.addProduct(new Product(new DateTime(2020, i, i),
                     3, i * 5, "Manufactoringsssssssss".Substring(i, 10),
-                    "ASASBVSLKANCALSNCXa".Substring(i, 10)));
+                    "Manufactoringsssssssss".Substring(i + 1, 10)));
             }
 
             List <Product> list = store.findProductsByFilter(30, 3, new DateTime(2020, 1, 1));
