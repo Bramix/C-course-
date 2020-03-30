@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\lab6\\Lab4\\Lab4\\Lab4.csproj",
+      "projectUniqueName": "E:\\C#\\lab6\\Task4\\Lab4\\Lab4.csproj",
       "projectName": "Lab4",
-      "projectPath": "E:\\C#\\lab6\\Lab4\\Lab4\\Lab4.csproj",
+      "projectPath": "E:\\C#\\lab6\\Task4\\Lab4\\Lab4.csproj",
       "packagesPath": "C:\\Users\\brami\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\lab6\\Lab4\\Lab4\\obj\\",
+      "outputPath": "E:\\C#\\lab6\\Task4\\Lab4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brami\\AppData\\Roaming\\NuGet\\NuGet.Config",

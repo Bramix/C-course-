@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "E:\\C#\\lab6\\Lab4\\Lab4\\Lab4.csproj",
+    "projectUniqueName": "E:\\C#\\lab6\\Task4\\Lab4\\Lab4.csproj",
     "projectName": "Lab4",
-    "projectPath": "E:\\C#\\lab6\\Lab4\\Lab4\\Lab4.csproj",
-    "outputPath": "E:\\C#\\lab6\\Lab4\\Lab4\\obj\\",
+    "projectPath": "E:\\C#\\lab6\\Task4\\Lab4\\Lab4.csproj",
+    "outputPath": "E:\\C#\\lab6\\Task4\\Lab4\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
