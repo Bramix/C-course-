@@ -33,7 +33,7 @@ namespace Task2
                 }
             }
             catch (FormatException) {
-                Exit("Invalid format of file");
+                Exit("Invalid format of the file. Please restart and write all lines as in example: Bozhenko Vladyslav Sergeevich 30 60");
             }
             
 

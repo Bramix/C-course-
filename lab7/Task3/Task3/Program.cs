@@ -30,14 +30,22 @@ namespace Task3
         public static void Main(string[] args) {
             if (!File.Exists(FilePath)) { 
                 Exit("File input.txt is not exist");
-            } 
-            var arrayList = new ArrayList(File.ReadAllLines(FilePath));
-            arrayList.Sort(new PersonComparer());
-            Console.WriteLine("Sorted by mass arrayList:");
-            foreach (string item in arrayList)
-            {
-                Console.WriteLine(item);
             }
+
+            try
+            {
+                var arrayList = new ArrayList(File.ReadAllLines(FilePath));
+                arrayList.Sort(new PersonComparer());
+                Console.WriteLine("Sorted by mass arrayList:");
+                foreach (string item in arrayList)
+                {
+                    Console.WriteLine(item);
+                }
+            }
+            catch (FormatException) {
+                Exit("Invalid format of the file. Please restart and write all lines as in example: Bozhenko Vladyslav Sergeevich 30 60");
+            }
+           
         }
     }
 }

@@ -7,6 +7,7 @@ namespace Task1
 {
     public class Progrm
     {
+        
         private const string FilePath = "..\\..\\..\\input.txt";
         
         public static void Main(string[] args)
@@ -14,6 +15,7 @@ namespace Task1
             if (!File.Exists(FilePath))
             {
                 Console.WriteLine("File input.txt is not exist");
+                Console.WriteLine("Please, create the file with expression");
                 Environment.Exit(1);
             }
             
@@ -21,6 +23,7 @@ namespace Task1
             if (String.IsNullOrWhiteSpace(input))
             {
                 Console.WriteLine("File input.txt is empty");
+                Console.WriteLine("Please, create the file with expression");
                 Environment.Exit(1);
             }
             
@@ -37,7 +40,7 @@ namespace Task1
             }
             else
             {
-                Console.WriteLine("Opened hooks not equal to closed");
+                Console.WriteLine("Opened hooks is not equaled to closed");
             }
         }
     }
